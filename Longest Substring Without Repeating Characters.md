@@ -307,14 +307,3 @@ Output: 6
 
 ---
 
-# Optimized Approach
-
-This solution is already optimized.
-
-Why?
-
-- Linear traversal
-- No nested traversal
-- Each character processed once
-
----
